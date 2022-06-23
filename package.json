@@ -1,0 +1,23 @@
+{
+    "name": "bookclub",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server/server.js",
+    "scripts": {
+        "start": "node server/server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fab1214/bookclub.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/fab1214/bookclub/issues"
+    },
+    "homepage": "https://github.com/fab1214/bookclub#readme",
+    "devDependencies": {
+        "concurrently": "^7.0.0"
+    }
+}
